@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.activity:activity:1.0.0@aar">
     <CLASSES>
-      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/df229add2bc1247f7ed02d17968e40f3/jetified-activity-1.0.0/AndroidManifest.xml" />
-      <root url="jar://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/df229add2bc1247f7ed02d17968e40f3/jetified-activity-1.0.0/jars/classes.jar!/" />
-      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/df229add2bc1247f7ed02d17968e40f3/jetified-activity-1.0.0/res" />
+      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/3a43523afc0e879e7b4eecea5ab108ef/jetified-activity-1.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/3a43523afc0e879e7b4eecea5ab108ef/jetified-activity-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/3a43523afc0e879e7b4eecea5ab108ef/jetified-activity-1.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

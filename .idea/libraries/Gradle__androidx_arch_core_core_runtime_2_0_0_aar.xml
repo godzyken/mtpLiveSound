@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar">
     <CLASSES>
-      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/d0e4d4a95071a46c6aa872165a525c09/core-runtime-2.0.0/AndroidManifest.xml" />
-      <root url="jar://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/d0e4d4a95071a46c6aa872165a525c09/core-runtime-2.0.0/jars/classes.jar!/" />
-      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/d0e4d4a95071a46c6aa872165a525c09/core-runtime-2.0.0/res" />
+      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/a538b3b91e23e7f4bc0794807f096120/core-runtime-2.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/a538b3b91e23e7f4bc0794807f096120/core-runtime-2.0.0/jars/classes.jar!/" />
+      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/a538b3b91e23e7f4bc0794807f096120/core-runtime-2.0.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

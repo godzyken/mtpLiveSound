@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.core:core:1.2.0@aar">
     <ANNOTATIONS>
-      <root url="jar://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/cdbb6646665e253c8cf239f63a393cc9/core-1.2.0/annotations.zip!/" />
+      <root url="jar://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/791147160d92c8530a7ac9458bab742d/core-1.2.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/cdbb6646665e253c8cf239f63a393cc9/core-1.2.0/AndroidManifest.xml" />
-      <root url="jar://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/cdbb6646665e253c8cf239f63a393cc9/core-1.2.0/jars/classes.jar!/" />
-      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/cdbb6646665e253c8cf239f63a393cc9/core-1.2.0/res" />
+      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/791147160d92c8530a7ac9458bab742d/core-1.2.0/AndroidManifest.xml" />
+      <root url="jar://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/791147160d92c8530a7ac9458bab742d/core-1.2.0/jars/classes.jar!/" />
+      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/791147160d92c8530a7ac9458bab742d/core-1.2.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

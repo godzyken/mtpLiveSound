@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.firebase:firebase-firestore:21.4.3@aar">
     <CLASSES>
-      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/aab68557b8ce436cae59054976054f51/jetified-firebase-firestore-21.4.3/AndroidManifest.xml" />
-      <root url="jar://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/aab68557b8ce436cae59054976054f51/jetified-firebase-firestore-21.4.3/jars/classes.jar!/" />
-      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/aab68557b8ce436cae59054976054f51/jetified-firebase-firestore-21.4.3/res" />
+      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/959923b60b863582898ff20899368a68/jetified-firebase-firestore-21.4.3/AndroidManifest.xml" />
+      <root url="jar://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/959923b60b863582898ff20899368a68/jetified-firebase-firestore-21.4.3/jars/classes.jar!/" />
+      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/959923b60b863582898ff20899368a68/jetified-firebase-firestore-21.4.3/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/modules-2/files-2.1/com.google.firebase/firebase-firestore/21.4.3/bd7f965ce8d6007bfa93d956434b425fd04a6479/firebase-firestore-21.4.3-javadoc.jar!/" />

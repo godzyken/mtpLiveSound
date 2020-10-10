@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: com.google.firebase:firebase-auth-interop:19.0.0@aar">
     <CLASSES>
-      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/8efa4f950b4d1fce5c56de210d5321de/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml" />
-      <root url="jar://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/8efa4f950b4d1fce5c56de210d5321de/jetified-firebase-auth-interop-19.0.0/jars/classes.jar!/" />
-      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/8efa4f950b4d1fce5c56de210d5321de/jetified-firebase-auth-interop-19.0.0/res" />
+      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/44c6b9e98c6f25311d01097b3587d164/jetified-firebase-auth-interop-19.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/44c6b9e98c6f25311d01097b3587d164/jetified-firebase-auth-interop-19.0.0/jars/classes.jar!/" />
+      <root url="file://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/transforms-2/files-2.1/44c6b9e98c6f25311d01097b3587d164/jetified-firebase-auth-interop-19.0.0/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://D:/godzydev/Gradle/gradle-6.6.1-all/gradle-6.6.1/bin/caches/modules-2/files-2.1/com.google.firebase/firebase-auth-interop/19.0.0/62360008013e207bf91d5b96c09eb0b9a3067393/firebase-auth-interop-19.0.0-javadoc.jar!/" />
